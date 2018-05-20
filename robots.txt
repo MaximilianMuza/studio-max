@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /online-präsenz/test.html
+Disallow: /online-präsenz/webdesign-fehler.html
+
+Allow: /
+
+Sitemap: http://maximilianmuza.de/sitemap.xml
